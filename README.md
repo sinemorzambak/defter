@@ -4,7 +4,7 @@ A debt tracker that runs the amortisation maths itself and uses an LLM only to
 explain the result. One HTML file, a Postgres database, and one serverless
 function that keeps the API key off the client.
 
-**Live demo:** _(add your Netlify URL)_ · opens with sample debts, nothing is stored
+**Live demo:** https://dynamic-figolla-8f7b3a.netlify.app/ · opens with sample debts, nothing is stored
 **UI language:** Turkish
 
 ---
